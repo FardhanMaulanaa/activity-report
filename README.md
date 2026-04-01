@@ -31,19 +31,19 @@
 
 ### Dashboard User
 
-![Dashboard](https://via.placeholder.com/1200x700/ffffff/3b82f6?text=Dashboard+User+-+Stats+%26+Charts)
+![Dashboard](DashboardUser.png)
 
 ### Form Input Laporan
 
-![Form Input](https://via.placeholder.com/800x600/ffffff/10b981?text=Form+Input+Laporan)
+![Form Input](InputKegiatan.png)
 
 ### Mobile Sidebar
 
-![Mobile](https://via.placeholder.com/400x800/f8fafc/64748b?text=Mobile+Responsive)
+![Mobile](TampilanMobile.png)
 
 ### Admin Panel
 
-![Admin](https://via.placeholder.com/1200x700/ffffff/8b5cf6?text=Admin+-+Kelola+Laporan+%26+User)
+![Admin](DashboardAdmin.png)
 
 ## 🧭 Navigasi Menu
 
@@ -60,8 +60,7 @@
 ```
 laporankegiatan/
 ├── index.html      (Aplikasi lengkap)
-├── README.md       (Dokumentasi ini)
-└── TODO.md         (Status development)
+└── README.md       (Dokumentasi ini)
 ```
 
 ## 🎮 Cara Penggunaan
@@ -120,7 +119,7 @@ Laporan Budi Santoso:
 ```
 
 **Dibuat oleh Fardhan Maulana**  
-_Professional Web App - Siap Gunakan!_ 🎉
+_Professional Web App - Siap Gunakan!_ 
 
 ---
 
